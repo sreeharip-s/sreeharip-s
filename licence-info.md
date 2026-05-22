@@ -1,4 +1,4 @@
-incase the `LICENCE` file is too long and you guys want to be quick
+A quick rundown on the custom LICENCE i use.
 | Y/N | Category                 |
 | -- | ------------------------ |
 | ✅  | Forking                  |
