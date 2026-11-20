@@ -10,4 +10,4 @@ i'm Sreehari, a student in the [United Arab Emirates](https://www.google.com/sea
 
 i'm currently finishing school, co-building a hosting company (feat. [@nullcloud-org](https://github.com/nullcloud-org)), and always up for workshops, collaborations, and projects where i can get more hands-on with production infrastructure.
 
-find me @ https://sreeh.org/
+find me @ [sreeh.org](https://sreeh.org/)
