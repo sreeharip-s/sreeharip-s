@@ -1,12 +1,13 @@
-# Heyy! 👋
-I'm Sreehari, a student based in the [United Arab Emirates](https://www.google.com/search?q=United+Arab+Emirates).
+# hoiiii!!!
 
-I like messing around with 
-- infrastructure,
-- self-hosted tools,
-- automation workflows (using n8n/python),
-- and basically any new tech that looks interesting.
+i'm Sreehari, a student in the [United Arab Emirates](https://www.google.com/search?q=United+Arab+Emirates) who got pulled into sysadmin work by accident and never left.
 
-Always looking for opportunities to learn new things, work on projects, and get more hands-on experience through workshops and collaborations.
+**what I mess around with:**
+- **infrastructure & self-hosting:** linux, docker,pterodactyl, and whatever glue holds a self-hosted stack together
+- **automation:** n8n workflows, Python scripts, discord bots in py-cord, alerting pipelines
+- **cloud, on the side:** Azure and AWS when the occasion calls for it
+- **anything new and slightly broken:** if it looks interesting, I'm probably already reading its docs
 
-> Starting September 2026, Google will block any Android app whose developer hasn't registered and provided government ID. This affects every Android device worldwide and us developers, Learn more: https://keepandroidopen.org
+i'm currently finishing school, co-building a hosting company (feat. [@nullcloud-org](https://github.com/nullcloud-org)), and always up for workshops, collaborations, and projects where i can get more hands-on with production infrastructure.
+
+find me @ https://sreeh.org/
