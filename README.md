@@ -3,7 +3,7 @@
 i'm Sreehari, a student in the [United Arab Emirates](https://www.google.com/search?q=United+Arab+Emirates) who got pulled into sysadmin work by accident and never left.
 
 **what I mess around with:**
-- **infrastructure & self-hosting:** linux, docker,pterodactyl, and whatever glue holds a self-hosted stack together
+- **infrastructure & self-hosting:** linux, docker, pterodactyl, and whatever glue holds a self-hosted stack together
 - **automation:** n8n workflows, Python scripts, discord bots in py-cord, alerting pipelines
 - **cloud, on the side:** Azure and AWS when the occasion calls for it
 - **anything new and slightly broken:** if it looks interesting, I'm probably already reading its docs
