@@ -1,5 +1,5 @@
 # hoiiii!!!
-
+<img width="1972" height="10" alt="a-line" src="https://github.com/user-attachments/assets/226d05b6-238f-479e-b800-cd4f1e6e58b5" />
 i'm Sreehari, a student in the [United Arab Emirates](https://www.google.com/search?q=United+Arab+Emirates) who got pulled into sysadmin work by accident and never left.
 
 **what I mess around with:**
