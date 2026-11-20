@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56">
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="40">
   <style>
     text { fill: #f0f6fc; font: 600 40px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
     @media (prefers-color-scheme: light) { text { fill: #1f2328; } }
   </style>
-  <text x="0" y="42">hoiiii!!!</text>
+  <text x="0" y="34">hoiiii!!!</text>
 </svg>
